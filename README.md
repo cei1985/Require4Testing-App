@@ -26,7 +26,7 @@ Gemäß der Aufgabenstellung wurden fünf zentrale Anforderungen aus dem Product
 
 ## Technologiestack
 
-Für die Umsetzung wurde folgender Stack gewählt [3]:
+Für die Umsetzung wurde folgender Stack gewählt:
 
 * **Framework:** Spring Boot (Alternative zu JSF/CDI)
 * **Persistenz:** JPA / Spring Data JPA mit Hibernate
